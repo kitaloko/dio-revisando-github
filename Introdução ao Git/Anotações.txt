@@ -1,6 +1,6 @@
 comandos: 
 git status
-git add
-git commit 
-git push
+git add . (adiciona todos os novos arquivos e modificações gerados)
+git commit -m "" (Commita as modificações com uma mensagem explicativa)
+git push origin main (manda as modificações pro arquivo global)
 
